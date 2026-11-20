@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+tqdm
+
+# Plotting
+matplotlib
+seaborn
+plotly
+
+# Data
+yfinance
+
+# Model-specific
+pykalman
+PyWavelets
+vectorbt
+
+# Notebooks
+jupyterlab
+ipython
+
